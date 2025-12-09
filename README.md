@@ -1,2 +1,2 @@
 # zztx.com
-<meta http-equiv="refresh" content="0;url=./html/zztx.html">
+<meta http-equiv="refresh" content="0;url=./home/zztx.html">
